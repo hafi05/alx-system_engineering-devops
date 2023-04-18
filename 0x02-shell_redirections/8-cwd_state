@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "ls -la" > 8-ls_cwd_content
+ls -la > 8-ls_cwd_content
