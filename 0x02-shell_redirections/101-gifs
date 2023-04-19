@@ -1,2 +1,3 @@
 #!/bin/bash
-find . -type f -name '*.gif' -print
+find . -type f -name "*.gif" ! -path '*/\.*'
+
